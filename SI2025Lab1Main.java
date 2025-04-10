@@ -102,7 +102,7 @@ class TaskManager {
     }
 
     // 8. Mark a task as completed by name
-    public void markTaskCompleted(String name) {
+    public void markTaskCompletedbyName(String name) {
         // TODO: Implement completion logic
     }
 
