@@ -1,0 +1,7 @@
+* bc6c552 Implemented SortTasksByPriority
+| * 6b395a6 Implemented MarkTaskCompletedByName
+|/  
+| * 57b98ab Implemented findAllCompletedTasks
+|/  
+* 538cb65 Add starter code
+* ef1639f Initial commit
